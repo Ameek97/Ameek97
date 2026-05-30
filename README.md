@@ -77,11 +77,11 @@ A passionate Computer Science Student from NIT Srinagar, India 🇮🇳
 <p align="center">
 
 <a href="mailto:ameekajaz2@gmail.com">
-  <img src="https://img.shields.io/badge/Email-ameekajaz2%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Email-Click%20Here-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/mohammad-ameek-426621343/">
-  <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
