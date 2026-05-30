@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ameek
 
-A passionate Computer Science Student from NIT Srinagar, India 🇮🇳
+A passionate IT Student from NIT Srinagar, India 🇮🇳
 
 ---
 
