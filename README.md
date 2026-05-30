@@ -4,13 +4,15 @@ A passionate Computer Science Student from NIT Srinagar, India 🇮🇳
 
 ---
 
-🔭 I’m currently working on **Blink** and **Fnky**
+🔭 I’m currently working on improving my **problem solving skills** and building **full-stack projects**
 
-🌱 I’m currently learning **Rust**, **Data Structures in C++**, and the **MERN Stack**
+🌱 I’m currently learning **Data Structures & Algorithms in C++**, along with exploring the **MERN Stack** and **Rust**
 
-💬 I'm passionate about **Competitive Programming** and love solving problems
+💬 I enjoy **Competitive Programming** and solving algorithmic problems that strengthen my thinking
 
-⚡ I believe: *Anything worth doing is worth overdoing*
+🐍 My LeetCode [profile: https://leetcode.com/ameek_64](https://leetcode.com/u/ameek_64/)
+
+⚡ I enjoy building projects and understanding how things work under the hood
 
 ---
 
