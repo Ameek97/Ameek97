@@ -6,7 +6,7 @@ A passionate IT Student from NIT Srinagar, India 🇮🇳
 
 🔭 I’m currently working on improving my **problem solving skills** and building **full-stack projects**
 
-🌱 I’m currently learning **Data Structures & Algorithms in C++**, along with exploring the **MERN Stack** and **Rust**
+🌱 I’m currently learning **Data Structures & Algorithms in C++**, along with exploring the **MERN Stack** 
 
 💬 I enjoy **Competitive Programming** and solving algorithmic problems that strengthen my thinking
 
